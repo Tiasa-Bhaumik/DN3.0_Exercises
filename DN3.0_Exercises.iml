@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Week_1_Exercises/Week 1_Algorthms_Data Structures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week_1_Exercises/Week 1_Design Patterns and Principles" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
